@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+}
+h1{
+    color: yellow;
+    font-family: Cambria;
+    border: 5px outset;
+}
+p{
+    color: yellowgreen;
+    font-family: Georgia;
+    border: 3px inset ;
+}
